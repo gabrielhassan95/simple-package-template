@@ -10,7 +10,7 @@ setup(
     name="package_name",
     version="0.0.1",
     author="Gabriel",
-    author_email="my_email",
+    author_email="ghsammour@icloud.com",
     description="My short description",
     long_description=page_description,
     long_description_content_type="text/markdown",
